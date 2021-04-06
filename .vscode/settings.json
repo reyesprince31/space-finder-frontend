@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+    
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
